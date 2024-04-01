@@ -7,7 +7,7 @@ This Bash script is designed to manage logs and facilitate launching the Battles
 ## Features
 
 - Save log files' metadata to **C:/bsg_cache/logs.txt** for future reference.
-- Prompt users for input path which is saved for future usage in **C:\bsg_cache\input.txt**.
+- Prompt users for input path, saving it to **C:\bsg_cache\input.txt** to avoid asking each time the script is launched.
 - Clear log directories.
 - Automate log management tasks.
 - Facilitate the start of the Battlestate Games Launcher after clearing logs.
