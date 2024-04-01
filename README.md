@@ -6,7 +6,7 @@ This Bash script is designed to manage logs and facilitate launching the Battles
 
 ## Features
 
-- Create and save log files' metadata to **C:/bsg_cache/logs.txt** for future reference.
+- Save log files' metadata to **C:/bsg_cache/logs.txt** for future reference.
 - Prompt users for input path which is saved for future usage in **C:\bsg_cache\input.txt**.
 - Clear log directories.
 - Automate log management tasks.
