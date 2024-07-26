@@ -29,4 +29,4 @@ This Bash script is designed to manage logs and facilitate launching the Battles
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/battlestate-games-script.git
+   git clone https://github.com/halfareed/BSG-logs-automation.git
